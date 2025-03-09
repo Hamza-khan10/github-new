@@ -1,2 +1,2 @@
-print ("Hello World")
+print ("day 1 task updated")
 functionality of saylani fees
